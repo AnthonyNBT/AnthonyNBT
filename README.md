@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm passionate about technology, coding, and conti
 
 ## 📈 GitHub Stats
 
-![AnthonyNBT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyNBT&show_icons=true&theme=radical)
+![AnthonyNBT's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnthonyNBT&show_icons=true&theme=darcula)
 
 ## 📫 Connect with Me
 
